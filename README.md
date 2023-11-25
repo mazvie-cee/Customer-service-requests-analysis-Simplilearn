@@ -1,6 +1,6 @@
 ## Customer-service-requests-analysis-Simplilearn
 
-This assessment project at Simplilearn  equipped me with data manipulation, exploratory data analysis (EDA), and statistical analysis utilizing Python.
+This assessment project at Simplilearn  equipped me with data manipulation, exploratory data analysis (EDA), and statistical analysis skills using Python.
 
 ### Project 1 - Customer Service Requests Analysis
 
@@ -16,5 +16,6 @@ Perform a service request data analysis of New York City 311 calls. You will foc
 2. Read or convert the columns ‘Created Date’ and Closed Date’ to datetime datatype and create a Resolution closing time column 
 3. Provide major insights/patterns that you can offer in a visual format (graphs or tables); at l Order the complaint types based on the average ‘Request_Closing_Time’, grouping them for diffent locations 
 4. Perform a statistical test for the following:
-Please note: For the below statements you need to state the Null and Alternate and then provide a statistical test to accept or reject the Null Hypothesis along with the corresponding ‘p-value’.
-Whether the average response time across complaint types is similar or not (overall) Are the type of complaint or service requested and location related?
+a) Please note: For the below statements you need to state the Null and Alternate and then provide a statistical test to accept or reject the Null Hypothesis along with the corresponding ‘p-value’.
+b) Whether the average response time across complaint types is similar or not (overall)
+c) Are the type of complaint or service requested and location related?
